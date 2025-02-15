@@ -106,7 +106,7 @@
             <div class="flex flex-row flex-wrap gap-2 text-gray-400">
                 <!-- Github Icon -->
                 <a class="inline-flex items-center justify-center gap-2 px-3 py-3 text-lg font-medium transition rounded-full ring-1 ring-inset text-zinc-400 ring-white/10 hover:bg-white/5 hover:text-white"
-                    href="https://github.com/alnahian2003" target="_blank">
+                    href="https://github.com/Redoan-Hasan" target="_blank">
                     <span class="[&>svg]:h-5 [&>svg]:w-5">
                         <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 496 512">
                             <!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc. -->
@@ -118,7 +118,7 @@
 
                 <!-- Facebook Icon -->
                 <a class="inline-flex items-center justify-center gap-2 px-3 py-1 text-lg font-medium transition rounded-full ring-1 ring-inset text-zinc-400 ring-white/10 hover:bg-white/5 hover:text-white"
-                    href="https://facebook.com/alnahian2003" target="_blank">
+                    target="_blank">
                     <span class="[&>svg]:h-5 [&>svg]:w-5">
                         <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 320 512">
                             <!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc. -->
@@ -130,7 +130,7 @@
 
                 <!-- Twitter/X Icon -->
                 <a class="inline-flex items-center justify-center gap-2 px-3 py-1 text-lg font-medium transition rounded-full ring-1 ring-inset text-zinc-400 ring-white/10 hover:bg-white/5 hover:text-white"
-                    href="https://x.com/alnahian2003" target="_blank">
+                    href="https://x.com/r_e_d_o_a_n" target="_blank">
                     <span class="[&>svg]:h-5 [&>svg]:w-5">
                         <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 512 512">
                             <!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc. -->
@@ -142,7 +142,7 @@
 
                 <!-- LinkedIn Icon -->
                 <a class="inline-flex items-center justify-center gap-2 px-3 py-1 text-lg font-medium transition rounded-full ring-1 ring-inset text-zinc-400 ring-white/10 hover:bg-white/5 hover:text-white"
-                    href="https://linkedin.com/in/alnahian2003" target="_blank">
+                    href="https://www.linkedin.com/in/redoanhasan/" target="_blank">
                     <span class="[&>svg]:h-5 [&>svg]:w-5">
                         <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 448 512">
                             <!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc. -->
@@ -154,7 +154,7 @@
 
                 <!-- Behance Icon -->
                 <a class="inline-flex items-center justify-center gap-2 px-3 py-1 text-lg font-medium transition rounded-full ring-1 ring-inset text-zinc-400 ring-white/10 hover:bg-white/5 hover:text-white"
-                    href="https://behance.net/alnahian2003" target="_blank">
+                    target="_blank">
                     <span class="[&>svg]:h-5 [&>svg]:w-5">
                         <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 576 512">
                             <!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc. -->
