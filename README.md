@@ -1,4 +1,4 @@
-# Laravel Blog Platform
+# Blog Platform
 
 A modern blog platform built with Laravel and Tailwind CSS featuring an admin panel for content management. The platform allows administrators to manage blog posts and categories while providing a seamless reading experience for visitors.
 
