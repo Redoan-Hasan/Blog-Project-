@@ -90,7 +90,7 @@ To access the **admin dashboard**, use the following credentials:
 
 **Email:** `admin@gmail.com`
 
-**Password:** `admin12345`
+**Password:** `admin123`
 
 *(You can change these credentials after running database migrations.)*
 
